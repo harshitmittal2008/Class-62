@@ -1,0 +1,27 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.0",
+    "@react-navigation/native": "^3.8.4",
+    "expo": "^45.0.6",
+    "expo-status-bar": "~1.2.0",
+    "firebase": "^8.10.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "^0.69.1",
+    "react-native-paper": "3.6.0",
+    "react-native-web": "0.17.1",
+    "react-navigation": "latest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
